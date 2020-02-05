@@ -1,0 +1,14 @@
+.modal-content {
+    height: 50rem;
+    overflow: auto;
+}
+
+.aka-info{
+  position:relative;
+  left:25px;
+}
+.modal-dialog {
+  width: 1000px;
+  } 
+.modal-header { padding:16px 16px;
+ }
